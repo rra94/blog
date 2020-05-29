@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: rra.iitk@gmail.com
-baseurl: "https://musings.rishavrajagarwal.com"
+baseurl: 'https://musings.rishavrajagarwal.com'
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
