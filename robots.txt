@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/https://musings.rishavrajagarwal.com/sitemap.xml
+Sitemap: http://rishavagarwal.xyz/https://musings.rishavagarwal.xyz/sitemap.xml
