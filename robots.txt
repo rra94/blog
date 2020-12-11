@@ -1,1 +1,1 @@
-Sitemap: http://rishavagarwal.xyz/https://musings.rishavagarwal.xyz/sitemap.xml
+Sitemap: /https://musings.rishavagarwal.xyz/sitemap.xml
